@@ -1,0 +1,12 @@
+let sum = (a,b) =>{
+                return a+b;
+            }
+            //sum(4,3);
+            console.log(sum(4,4));
+
+            let greet = (name) =>{
+                console.log("greet....."+name);
+            }
+            greet('varsha');
+            greet("varsha kush");
+            //console.log(greet('varsha kushwah'));
