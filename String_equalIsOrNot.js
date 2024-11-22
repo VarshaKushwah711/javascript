@@ -1,6 +1,3 @@
-<html>
-    <body>
-        <script>
             //*2. Write a program to take two strings as input from the user. Confirm that the strings are equal.
 
             let str1 = prompt("Enter first string : ");
@@ -15,6 +12,3 @@
             }
             //case sensitive
 
-        </script>
-    </body>
-</html>
