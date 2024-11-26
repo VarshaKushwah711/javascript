@@ -14,7 +14,8 @@ function Armstrong(num)
             {
                 document.write(originalNum + " is an Armstrong Number")
             }
-            else{
+            else
+            {
                 document.write(originalNum + " is not an Armstrong Number")
             }
 }
