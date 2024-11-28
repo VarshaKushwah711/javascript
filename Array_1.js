@@ -9,8 +9,7 @@ console.log("size : " + studentarr.length);
 for(let i=0; i<studentarr.length; i++)
 {
      console.log(studentarr[i]);
-}
-            
+}       
 //for-of loop not using index value
 for(let i of studentarr)
 {
