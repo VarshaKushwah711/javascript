@@ -12,8 +12,6 @@ for(let i=0; i<studentarr.length; i++)
 }
             
 //for-of loop not using index value
-
-            
 for(let i of studentarr)
 {
       console.log(i);
