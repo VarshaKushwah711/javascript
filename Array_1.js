@@ -4,6 +4,7 @@ console.log(studentarr);
 
 //size of array
 
+
 console.log("size : " + studentarr.length);
 
 //for loop
