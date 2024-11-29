@@ -6,8 +6,6 @@ console.log(studentarr);
 
 console.log("size : " + studentarr.length);
 
-
-
 //for loop
 for(let i=0; i<studentarr.length; i++)
 {
