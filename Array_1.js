@@ -3,7 +3,6 @@ let studentarr = [101,"varsha","indore","21"];
 console.log(studentarr);
 
 
-
 //size of array
 console.log("size : " + studentarr.length);
 
