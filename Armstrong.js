@@ -9,7 +9,8 @@ function Armstrong(num)
                 r = r+(l*l*l);
                 num = parseInt(num/10);
             }
-  
+
+            
             if(originalNum==r)
             {
                 document.write(originalNum + " is an Armstrong Number")
