@@ -9,7 +9,6 @@ function Armstrong(num)
                 r = r+(l*l*l);
                 num = parseInt(num/10);
             }
-
             
             if(originalNum==r)
             {
