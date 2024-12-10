@@ -2,7 +2,6 @@ function Armstrong(num)
 {
             let originalNum = num;
             let r = 0;
-
             
             while(num>0)
             {
