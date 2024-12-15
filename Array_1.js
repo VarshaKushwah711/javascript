@@ -1,4 +1,5 @@
 //Declare array And Print 
+
 let studentarr = [101,"varsha","indore","21"];
 console.log(studentarr);
 
