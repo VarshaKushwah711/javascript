@@ -18,6 +18,7 @@ function Armstrong(num)
             {
                 document.write(originalNum + " is not an Armstrong Number")
             }
+            
 }
         
         var num = parseInt(prompt("Enter a number: "))
