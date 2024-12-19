@@ -1,5 +1,4 @@
-function Armstrong(num)
-            
+function Armstrong(num)        
 {
             let originalNum = num;
             let r = 0;
