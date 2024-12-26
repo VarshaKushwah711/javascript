@@ -1,4 +1,3 @@
-
 function Armstrong(num)        
 {
             let originalNum = num;
