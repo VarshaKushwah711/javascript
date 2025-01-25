@@ -25,4 +25,4 @@ function Armstrong(num)
         var num = parseInt(prompt("Enter a number: "))
         Armstrong(num);
 
-kjkbhk
+kjkbh
