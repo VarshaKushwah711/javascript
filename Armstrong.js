@@ -1,8 +1,6 @@
 
 
 
-
-
 function Armstrong(num)        
 {
 
